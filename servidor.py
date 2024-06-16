@@ -7,7 +7,7 @@
 # Code           Place
 #-----------     ---------------------------
 # ap	      Asia/Pacific (Singapore)
-# au		  Australia (Sydney)/
+# au		  Australia (Sydney)
 # eu		  Europe (Frankfurt)
 # in		  India (Mumbai)
 # jp		  Japan (Tokyo)
